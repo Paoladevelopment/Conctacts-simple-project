@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1080px;
+  height: 100vh;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #1b1b32;
+  color: #f5f6f7;
+  font-family: Tahoma;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.new-contact {
+  width: 50%;
+  margin-top: 32px;
+  min-width: 250px;
+}
+
+.new-contact__fundamental-info {
+}
